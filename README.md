@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdullah4597
+- 👋 Hi, I’m Abdullah Al Mamun
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
